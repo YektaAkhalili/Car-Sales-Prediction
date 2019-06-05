@@ -10,7 +10,7 @@ This is a project for a class at University.
 Data: 
 
 | index | Sales | Greater_Than_Mean |
-| ------------- | ------------- |
+| --- | --- | --- |
 | 1  | 266  | 0 |
 | 2  | 146  | 0 |
 | 3  | 183  | 0 |
